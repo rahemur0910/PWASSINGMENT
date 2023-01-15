@@ -1,0 +1,33 @@
+1. what is the internet?
+Ans:The Internet is a vast network that connects computers all over the world.
+    Through the Internet, people can share information and communicate from anywhere
+    with an Internet connection.
+
+2. what is a web-browser?
+Ans:A web browser is application software for accessing web pages.
+    When a user requests a web page from a particular site, the browser retrieves its 
+    files from the web server and then displays the page on the user's screen. 
+    Browsers are used on a variety of devices, including desktop computers, laptops,
+    tablets, and smartphones.
+
+3.what is a browser engine?
+Ans:The browser acts as a bridge between the user interface and the rendering engine.
+    the three main engine are - web-kit,quantum,blink
+
+4.What is a static site?
+Ans:A static website consists of a series of HTML files, each of which represents a 
+    physical page of the website. On static websites, each page is a separate HTML file.
+    When you visit the home page, you are only viewing the file of the actual home page.
+    Even if two pages contain a piece of identical content as a footer, the footers exist 
+    as two separate versions. So if you want to update the footer, you have to do it on 
+    every page.Static websites are fairly simple and all websites were created this way 
+    during the early years of the world wide web.
+
+5.What is a dynamic site?
+Ans:A dynamic website uses server-side technologies (such as PHP) to dynamically create a 
+    web page the moment a user visits the page.
+    After entering a certain web address, the server finds a lot of different information,
+    which it then writes into a single coherent web page. You can compare a dynamic website
+    to a mosaic. This composite web page is then what you will see as a viewer.
+    This way of building websites is considered "on the fly" and has several advantages,
+    which we will discuss next.

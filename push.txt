@@ -3,5 +3,5 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin git@github.com:rahemur0910/PWASSINGMENT.git
+git remote add pw git@github.com:rahemur0910/PWASSINGMENT.git
 git push -u pw main

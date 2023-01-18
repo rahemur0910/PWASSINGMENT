@@ -1,0 +1,30 @@
+1.Difference between UI and UX
+Ans:User Interface (UI) and User Experience (UX) are two terms used to describe different 
+    aspects of the design of a website or software application. The main difference between
+    the two is that UI focuses on the look and feel of the interface, while UX focuses on 
+    the user experience with the system.
+
+2.Who is front-end devloper?
+Ans: A front-end developer is a type of software engineer who specializes in the development
+     andmaintenance of websites and applications that are visible to end users. 
+     They are responsible for creating interactive user interfaces and making sure the 
+     functionality of those interfaces works properly. Front-end developers typically work 
+     with HTML, CSS, and JavaScript to create visually appealing, interactive interfaces 
+     that users can interact with.
+
+3.Who is Back-end devloper?
+Ans:A Back-end Developer is a software engineer who develops and maintains the server-side
+    logic and databases of a web application. They are responsible for writing server-side 
+    web application logic and integrating the application with the front-end components 
+    built by the front-end developers. Back-end developers generally have a strong 
+    understanding of server-side languages such as PHP, Ruby, Python, and Java, as well as 
+    database technologies such as MySQL, Oracle, and MongoDB.
+
+4.Github link : https://github.com/rahemur0910
+  LinkedIn link : https://www.linkedin.com/in/sk-rahemur-rahaman-76444222b/
+  lINKEDIN AND GITHUB SS LINK : https://drive.google.com/drive/folders/1ZeqDFkg80f2vvm5Nceu2UaQH2mBHIZ2q?usp=sharing
+
+5. BLOG WRITING :
+ TOPIC : Difference between UI and UX
+ LINK : https://rahemur0910rahaman.hashnode.dev/difference-between-ui-and-ux
+ 

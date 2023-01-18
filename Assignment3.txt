@@ -1,0 +1,33 @@
+1.What is HTML?
+Ans:HTML (HyperText Markup Language) is the standard markup language for creating 
+    web pages and web applications. With HTML, you can create structured documents 
+    by denoting structural semantics for text such as headings, paragraphs, lists, links, 
+    quotes and other items.
+
+2.What is CSS?
+Ans:CSS (Cascading Style Sheets) is a style sheet language used for describing the look
+    and formatting of a document written in a markup language. It is most often used to 
+    set the visual style of web pages and user interfaces written in HTML and XHTML, 
+    but the language can be applied to any kind of XML document, including plain XML, 
+    SVG, and XUL. CSS is designed primarily to enable the separation of document content 
+    from document presentation, including elements such as the layout, colors, and fonts. 
+    This separation can improve content accessibility, provide more flexibility and control
+     in the specification of presentation characteristics, enable multiple pages to share 
+     formatting, and reduce complexity and repetition in the structural content.
+
+3.What did js come in to the picture?
+Ans:JavaScript (or JS) was first introduced in 1995 as a scripting language for web pages.
+    It has since evolved into a powerful language used in the development of complex web
+    applications and websites. JavaScript is used to add interactive elements to websites,
+    such as drop-down menus, animated graphics, and more. It can also be used to build 
+    mobile apps and desktop applications.
+
+4.History of java script and ecma script.
+Ans:JavaScript was initially developed in 1995 by Brendan Eich while working at Netscape 
+    Communications. JavaScript was initially designed to add interactivity to web pages, 
+    but over the years it has grown to become one of the most popular programming languages.
+    ECMAScript (or ES) is a scripting language specification standardized by Ecma 
+    International in ECMA-262 and ISO/IEC 16262. It was created to standardize JavaScript, 
+    so as to foster multiple independent implementations. It is the basis for many 
+    scripting languages, including ActionScript and JavaScript. The latest version of the 
+    language is ECMAScript 9, released in June 2018.
